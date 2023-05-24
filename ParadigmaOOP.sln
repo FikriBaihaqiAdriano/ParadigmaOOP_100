@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainIA", "MainIA\MainIA.vcxproj", "{319BD8DB-5B98-4FCB-BC31-A6CE38FA309F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosiasi.vcxproj", "{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{319BD8DB-5B98-4FCB-BC31-A6CE38FA309F}.Release|x64.Build.0 = Release|x64
 		{319BD8DB-5B98-4FCB-BC31-A6CE38FA309F}.Release|x86.ActiveCfg = Release|Win32
 		{319BD8DB-5B98-4FCB-BC31-A6CE38FA309F}.Release|x86.Build.0 = Release|Win32
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Debug|x64.ActiveCfg = Debug|x64
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Debug|x64.Build.0 = Debug|x64
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Debug|x86.Build.0 = Debug|Win32
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Release|x64.ActiveCfg = Release|x64
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Release|x64.Build.0 = Release|x64
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Release|x86.ActiveCfg = Release|Win32
+		{3B8F5F3D-AF09-4761-9C8C-D3EA33AE1637}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
