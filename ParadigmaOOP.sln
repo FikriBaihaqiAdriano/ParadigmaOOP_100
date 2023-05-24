@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosia
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainJM", "mainJM\mainJM.vcxproj", "{AC0693CF-C069-4F08-A827-51CC3A194613}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberinitlist", "memberinitlist\memberinitlist.vcxproj", "{B0A97DB2-2345-45B6-9B00-A501746F3A36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{AC0693CF-C069-4F08-A827-51CC3A194613}.Release|x64.Build.0 = Release|x64
 		{AC0693CF-C069-4F08-A827-51CC3A194613}.Release|x86.ActiveCfg = Release|Win32
 		{AC0693CF-C069-4F08-A827-51CC3A194613}.Release|x86.Build.0 = Release|Win32
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Debug|x64.ActiveCfg = Debug|x64
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Debug|x64.Build.0 = Debug|x64
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Debug|x86.ActiveCfg = Debug|Win32
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Debug|x86.Build.0 = Debug|Win32
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Release|x64.ActiveCfg = Release|x64
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Release|x64.Build.0 = Release|x64
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Release|x86.ActiveCfg = Release|Win32
+		{B0A97DB2-2345-45B6-9B00-A501746F3A36}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
